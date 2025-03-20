@@ -11,6 +11,8 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\004PM5744\\Desktop\\Se
 WebDriver chromeDriver = new ChromeDriver();
 chromeDriver.get("https://www.google.com/");
 chromeDriver.get("https://www.instagram.com/");
+System.out.println("Welcome to git hub"); //practice for Git hub
+
 
 }
 }
